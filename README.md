@@ -9,7 +9,7 @@ A user API provided as a submission to the technical assessment as part of the H
 * The application can be build with standard maven commands (e.g. within your IDE of choice, or using the `mvn` command line tool)
 * To run the application after compiling, run the main class `com.holidayextras.techtest.ajb.main.Application`. The application will start on port 8080.
 * Once the application has started, navigate to *http://localhost:8080/test-harness/* to execute test requests (note that you will need to click one of the page's refresh buttons after any database change to see the new data)
- * (You could also use a tool such as Postman; responses are in JSON format)
+  * (You could also use a tool such as Postman; responses are in JSON format)
 * Execute test class `UserTestsIT` to run 37 integration tests and verify that the API is working correctly. The server must already be running on port 8080 for the test to connect to
 
 ### Notes
