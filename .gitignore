@@ -1,0 +1,32 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Failsafe (all the below should be in target)
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.settings/
+.classpath
+.metadata
+.project
+local.properties
+
+# IntelliJ
+.idea/
+.idea_modules/
+out/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+.code-workspace
